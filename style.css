@@ -1,0 +1,16 @@
+head{
+    margin: 1px;
+    padding: 1px;
+}
+
+body{
+    margin: 1px;
+    padding: 1px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color:red;
+    background-color: darkblue;
+    height: 100vh;
+}
