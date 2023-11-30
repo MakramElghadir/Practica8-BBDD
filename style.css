@@ -10,7 +10,7 @@ body{
     align-items: center;
     display: flex;
     flex-direction: column;
-    color:red;
-    background-color: darkblue;
+    color:gold;
+    background-color: darkred;
     height: 100vh;
 }
